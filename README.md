@@ -87,7 +87,7 @@ Com um simples clique, você gera todos os links de que precisa, poupando o temp
    
    **Exemplo:** Você pode criar um PDF ou arquivo de Word com todos os links e enviá-lo ao monitor. Os links estarão prontos para revisão.
 
-##Contribuição
+**Contribuição**
 
 Se você tiver sugestões de melhorias ou quiser colaborar com o projeto, fique à vontade para abrir uma issue ou enviar um pull request.
 
