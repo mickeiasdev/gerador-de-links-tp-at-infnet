@@ -1,4 +1,3 @@
-# Gerador-de-links-AT-TP-Infnet
 # Gerador Automático de Links de Exercícios AT/TP (Infnet)
 
 Este programa facilita o processo de **geração de links** no **Codesandbox**, combinando-os com os links dos repositórios no GitHub. Ao preencher os campos necessários com o link do seu repositório GitHub e o link padrão do Codesandbox, o sistema cria automaticamente os links para cada exercício, prontos para serem copiados e colados em um documento. 
