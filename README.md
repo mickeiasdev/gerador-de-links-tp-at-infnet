@@ -27,59 +27,58 @@ Após baixar o projeto, abra o arquivo ´index.html´ em seu navegador de prefer
 
 Na página, você verá três campos de entrada:
 
-Link do GitHub: Preencha com o link do repositório do GitHub onde estão          armazenados os exercícios. Exemplo:
+**Link do GitHub:** Preencha com o link do repositório do GitHub onde estão          armazenados os exercícios. Exemplo:
+   ```bash
+   nome-usuario/repositorio/tree/master/pasta-do-exercicio-1
+
+**Link do Codesandbox:** Este campo já estará preenchido com o link padrão do Codesandbox, mas você pode personalizá-lo. O formato padrão é:
+   ```bash
+   https://codesandbox.io/p/github/
+
+**Número de Questões:** Digite o número total de questões para o exercício. Por exemplo, se você tem 16 questões, coloque 16.
+
+**Exemplo:**
+
+**Link do GitHub:**
 ```bash
-nome-usuario/repositorio/tree/master/pasta-do-exercicio-1
-
-Link do Codesandbox: Este campo já estará preenchido com o link padrão do Codesandbox, mas você pode personalizá-lo. O formato padrão é:
-```bash
-https://codesandbox.io/p/github/
-
-Número de Questões: Digite o número total de questões para o exercício. Por exemplo, se você tem 16 questões, coloque 16.
-
-Exemplo:
-
-Link do GitHub:
-txt
-Copiar
 usuario/exemplo-repositorio/tree/master/exercicio-1
-Link do Codesandbox:
-txt
-Copiar
+**Link do Codesandbox:**
+```bash
 https://codesandbox.io/p/github/
-Número de questões: 16
-Gerar os Links
+**Número de questões:** 16
 
-Após preencher todos os campos, clique no botão Gerar Links. O programa vai gerar os links para cada questão automaticamente, utilizando o link do seu repositório GitHub e o link do Codesandbox. Por exemplo, se você tem 16 questões, ele irá gerar 16 links no formato:
+**Gerar os Links**
 
-txt
-Copiar
+Após preencher todos os campos, clique no botão **Gerar Links**. O programa vai gerar os links para cada questão automaticamente, utilizando o link do seu repositório GitHub e o link do Codesandbox. Por exemplo, se você tem 16 questões, ele irá gerar 16 links no formato:
+
+```bash
 https://codesandbox.io/p/github/nome-usuario/repositorio/tree/master/pasta-do-exercicio-1/questao-1
 https://codesandbox.io/p/github/nome-usuario/repositorio/tree/master/pasta-do-exercicio-1/questao-2
 https://codesandbox.io/p/github/nome-usuario/repositorio/tree/master/pasta-do-exercicio-1/questao-3
 ...
-Copiar os Links
 
-Após gerar os links, um botão Copiar todos os links aparecerá abaixo dos links gerados. Clique nesse botão para copiar todos os links para sua área de transferência.
+**Copiar os Links**
 
-Colar em um Documento
+Após gerar os links, um botão **Copiar todos os links** aparecerá abaixo dos links gerados. Clique nesse botão para copiar todos os links para sua área de transferência.
 
-Depois de copiar os links, basta colá-los em um documento de Word ou PDF para enviá-los ao monitor para correção.
+**Colar em um Documento**
 
-Exemplo: Após clicar em "Copiar todos os links", você pode colar os links diretamente em um documento, que pode se parecer com isso:
+Depois de copiar os links, basta colá-los em um documento de **Word** ou **PDF** para enviá-los ao monitor para correção.
 
-txt
-Copiar
+**Exemplo:** Após clicar em "Copiar todos os links", você pode colar os links diretamente em um documento, que pode se parecer com isso:
+
+```bash
 https://codesandbox.io/p/github/usuario/exemplo-repositorio/tree/master/exercicio-1/questao-1
 https://codesandbox.io/p/github/usuario/exemplo-repositorio/tree/master/exercicio-1/questao-2
 https://codesandbox.io/p/github/usuario/exemplo-repositorio/tree/master/exercicio-1/questao-3
 ...
-Enviar o Trabalho
+
+**Enviar o Trabalho**
 
 Agora, com os links copiados e colados no documento, você está pronto para enviar o arquivo para o monitor corrigir.
 
-Exemplo: Você pode criar um PDF ou arquivo de Word com todos os links e enviá-lo ao monitor. Os links estarão prontos para revisão.
+**Exemplo:** Você pode criar um PDF ou arquivo de Word com todos os links e enviá-lo ao monitor. Os links estarão prontos para revisão.
 
-Contribuição
+**Contribuição**
 Se você tiver sugestões de melhorias ou quiser colaborar com o projeto, fique à vontade para abrir uma issue ou enviar um pull request.
 
