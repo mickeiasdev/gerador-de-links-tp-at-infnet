@@ -16,10 +16,10 @@ Com um simples clique, você gera todos os links de que precisa, poupando o temp
 1. **Baixar o Projeto**
 
    Faça o download ou clone este repositório para o seu computador. Para clonar o repositório, basta executar o seguinte comando no terminal:
-   ```bash
-   git clone https://github.com/seu-usuario/gerador-links.git```
 
-2. **Abrir o Arquivo HTML**
+      ```git clone https://github.com/seu-usuario/gerador-links.git```
+
+3. **Abrir o Arquivo HTML**
 
 Após baixar o projeto, abra o arquivo ´index.html´ em seu navegador de preferência, ou execute localmente utilizando um servidor de sua escolha.
 
@@ -30,9 +30,11 @@ Na página, você verá três campos de entrada:
 **Link do GitHub:** Preencha com o link do repositório do GitHub onde estão armazenados os exercícios.
 
 **Exemplo:**
+   
    ```nome-usuario/repositorio/tree/master/pasta-do-exercicio-1```
 
 **Link do Codesandbox:** Este campo já estará preenchido com o link padrão do Codesandbox, mas você pode personalizá-lo. O formato padrão é:
+   
    ```https://codesandbox.io/p/github/```
 
 **Número de Questões:** Digite o número total de questões para o exercício. Por exemplo, se você tem 16 questões, coloque 16.
@@ -41,13 +43,13 @@ Na página, você verá três campos de entrada:
 
 **Link do GitHub:**
 
-```usuario/exemplo-repositorio/tree/master/exercicio-1```
+   ```usuario/exemplo-repositorio/tree/master/exercicio-1```
 
 **Link do Codesandbox:**
 
-```https://codesandbox.io/p/github/```
+   ```https://codesandbox.io/p/github/```
 
-**Número de questões:** 16
+**Número de questões:** ```16```
 
 **Gerar os Links**
 
