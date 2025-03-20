@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="main.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Gerador de links TP/AT</h2>
+    <form action="#">    
+        <label for="input__codesandbox">Cole seu link do Codesandbox: <span style="color: red;">(Atenção: Link padrão)</span> </label>
+        <input type="text" name="input__codesandbox" id="input__codesandbox" value="https://codesandbox.io/p/github/" required>
+        <label for="input__github">Cole seu link do GitHub: <span style="color: red;">(Atenção: Coloque o link do primeiro arquivo "pasta-exercicio-1")</span> </label>
+        <input type="text" name="input__github" id="input__github" value="nome-usuario/nome-do-repositorio/tree/master/pasta-do-exercicio-1" required>
+        <label for="input__number">Digite o numero de questões:  <span style="color: red;">(Atenção: Digite apenas numeros)</span> </label>
+        <input type="text" name="input__number" id="input__number" value="16" required>
+        <input type="button" id="input__generate" value="Gerar links">     
+    </form>
+    <div id="link__container" class="hide"></div>
+    <button id="button__copy" class="hide">Copiar links</button>
+</body>
+</html>
