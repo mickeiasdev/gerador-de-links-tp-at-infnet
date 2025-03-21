@@ -12,7 +12,7 @@ Com um simples clique, você gera todos os links de que precisa, poupando o temp
 
       Faça o download ou clone este repositório para o seu computador. Para clonar o repositório, basta executar o seguinte comando no terminal:
    
-         ```git clone https://github.com/seu-usuario/gerador-links.git```
+         git clone https://github.com/seu-usuario/gerador-links.git
 
 3. **Abrir o Arquivo HTML**
 
@@ -26,13 +26,13 @@ Com um simples clique, você gera todos os links de que precisa, poupando o temp
    
       **Exemplo:**
       
-         ```nome-usuario/repositorio/tree/master/pasta-do-exercicio-1```
+         nome-usuario/repositorio/tree/master/pasta-do-exercicio-1
    
       **Link do Codesandbox:** Este campo já estará preenchido com o link padrão do Codesandbox, mas você pode personalizá-lo. O formato padrão é:
    
       **Exemplo:**
       
-         ```https://codesandbox.io/p/github/```
+         https://codesandbox.io/p/github/
    
       **Número de Questões:** Digite o número total de questões para o exercício. Por exemplo, se você tem 16 questões, coloque 16.
    
@@ -40,26 +40,24 @@ Com um simples clique, você gera todos os links de que precisa, poupando o temp
    
       **Link do GitHub:**
    
-         ```usuario/exemplo-repositorio/tree/master/exercicio-1```
+         usuario/exemplo-repositorio/tree/master/exercicio-1
    
       **Link do Codesandbox:**
    
-         ```https://codesandbox.io/p/github/```
+         https://codesandbox.io/p/github/
    
       **Número de questões:** ```16```
    
       **Gerar os Links**
-   
-         Após preencher todos os campos, clique no botão **Gerar Links**. O programa vai gerar os links para cada questão automaticamente, utilizando o link do seu repositório GitHub e o link    do Codesandbox. Por exemplo, se você tem 16 questões, ele irá gerar 16         links no formato:
-   
-         ```
+
+      Após preencher todos os campos, clique no botão **Gerar Links**. O programa vai gerar os links para cada questão automaticamente, utilizando o link do seu repositório GitHub e o link    do Codesandbox. Por exemplo, se você tem 16 questões, ele irá gera 16 links no formato:
+         
          https://codesandbox.io/p/github/nome-usuario/repositorio/tree/master/pasta-do-exercicio-1/questao-1
          https://codesandbox.io/p/github/nome-usuario/repositorio/tree/master/pasta-do-exercicio-1/questao-2
          https://codesandbox.io/p/github/nome-usuario/repositorio/tree/master/pasta-do-exercicio-1/questao-3
-         ...
-         ```
+         ... 
 
-5. **Copiar os Links**
+6. **Copiar os Links**
 
       Após gerar os links, um botão **Copiar todos os links** aparecerá abaixo dos links gerados. Clique nesse botão para copiar todos os links para sua área de transferência.
       
@@ -69,14 +67,12 @@ Com um simples clique, você gera todos os links de que precisa, poupando o temp
       
       **Exemplo:** Após clicar em "Copiar todos os links", você pode colar os links diretamente em um documento, que pode se parecer com isso:
       
-         ```
          https://codesandbox.io/p/github/usuario/exemplo-repositorio/tree/master/exercicio-1/questao-1
          https://codesandbox.io/p/github/usuario/exemplo-repositorio/tree/master/exercicio-1/questao-2
          https://codesandbox.io/p/github/usuario/exemplo-repositorio/tree/master/exercicio-1/questao-3
          ...
-         ```
 
-6. **Enviar o Trabalho**
+7. **Enviar o Trabalho**
 
       Agora, com os links copiados e colados no documento, você está pronto para enviar o arquivo para o monitor corrigir.
       
