@@ -35,15 +35,17 @@ Este projeto é uma ferramenta simples desenvolvida para ajudar alunos do Instit
 
 ```
 gerador-de-links-tp-at-infnet/
-├── index.html         # Interface principal da aplicação
-├── script.js          # Lógica de geração de links
-└── style.css          # Estilização básica da interface
+├── index.html
+├── script.js
+└── style.css
 ```
 
 ---
 
 ## 👨‍💻 Autor
 
-**Mickeias Coelho**  
-Desenvolvido como parte das atividades da disciplina _Programação Web com JavaScript II_  
-Curso de Análise e Desenvolvimento de Sistemas – Instituto Infnet
+Desenvolvido por [Mickeias Coelho](https://github.com/mickeiasdev)
+
+Sinta-se à vontade para fazer contribuições ou melhorar o código.
+
+📌 **Observação:** Este projeto foi desenvolvido como parte de um estudo pessoal com o objetivo de praticar e aprofundar conhecimentos na área.
